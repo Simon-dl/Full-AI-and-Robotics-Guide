@@ -1,4 +1,7 @@
 # Full-AI-and-Robotics-Guide
+
+![Alt text](robot-image.jpeg)
+
 From no knowledge of math or programming to being able to do autonomous robots research
 
 ## Course path
@@ -95,6 +98,8 @@ https://www.physicalintelligence.company/
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Ros2 and Robotics Projects
+
+![Alt text](ros-example.png)
 
 This is where the theory meets practice, over the course of your academic journey you should definitely be building robots and working on ros2 projects as some portion of your time. I really recommend working on them when you get burnt out doing academic exercises and want to work on something real and practical. Most of the coding will be done in C++ and Python, while I have no course on C++ you should be well equipt to find ways to fill in the gaps at this point. And remember just like learning anything getting comfortable with these projects and tools takes time and practice, but most importantly for these have fun and get creative.
 
